@@ -36,8 +36,8 @@ A React Native mobile application for searching and exploring movies using the O
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd movie-search-app
+git clone https://github.com/rohits2404/Movie-App.git
+cd movie-app
 ```
 
 ### Step 2: Install Dependencies
